@@ -22,5 +22,5 @@ $ pip install -U -r requirements.txt
 ## Source
 YOLOv5:(https://github.com/ultralytics/yolov5)<br>
 FACENET:(https://github.com/davidsandberg/facenet)<br>
-Program:(https://blog.csdn.net/ninesky110/article/details/84844307) <br>
+Program:(https://blog.csdn.net/qq_41334243/article/details/107425492) <br>
 Dataset:(http://shuoyang1213.me/WIDERFACE)
